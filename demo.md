@@ -60,3 +60,36 @@ Cliquez [ici](https://typora.io).
 
 Voici comment insérer une image
 ![Photo de pc](./images/photo1.jpg)
+
+## Les tableaux
+
+Permet de mettre en valeur des données avec un tableau
+
+|id|nom|prenom|
+|--|---|-----|
+|1|dupond|toto|
+|1|dupond|toto|
+|2|dupond|toto|
+|3|dupond|toto|
+
+## Les emphases
+### textes en gras
+** texte en gras **
+
+### texte en italique
+*en italique*
+
+### Les commandes
+
+Utilisés pour indiquer une chaine de caractere est une commande a entrer en console : 
+`npm install readfile-sync`
+
+### les notes 
+
+> ce projet est ecrit en Markdown mais on peut l'utiliser du HTML dedans.
+Exemple :
+
+<h1> titre </h1>
+<br> saut de ligne <br> saut de ligne...
+
+
